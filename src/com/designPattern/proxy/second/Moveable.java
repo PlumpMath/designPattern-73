@@ -1,4 +1,4 @@
-package com.designPattern.proxy.first;
+package com.designPattern.proxy.second;
 
 public interface Moveable {
 	void move();
